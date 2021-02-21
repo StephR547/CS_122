@@ -1,0 +1,134 @@
+StephanieRamirez@Stephanies-Air DoublyCircular % gcc bite_bullet.c linked.c doubly_circular.c
+StephanieRamirez@Stephanies-Air DoublyCircular % ./a.out                                     
+Please Enter The Number Of Players: 4
+Please Enter The Name Of Player 1: PHIL
+Please Enter The Name Of Player 2: JAKE
+Please Enter The Name Of Player 3: ROGER   
+Please Enter The Name Of Player 4: KATIE
+        The Players Are:
+        { PHIL } 
+        { JAKE } 
+        { ROGER } 
+        { KATIE } 
+LET THE GAMES BEGIN!!
+The current player is PHIL
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 0
+        PHIL Took A BITE From The FRONT
+PHIL...IS SAFE
+        PHIL Is Passing The Baguette to JAKE 
+The current player is JAKE
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 0
+        JAKE Took A BITE From The FRONT
+JAKE...IS SAFE
+        JAKE Is Passing The Baguette to ROGER 
+The current player is ROGER
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 1
+        ROGER Took A BITE From The BACK
+ROGER...IS SAFE
+        ROGER Is Passing The Baguette to KATIE 
+The current player is KATIE
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 1
+        KATIE Took A BITE From The BACK
+KATIE...IS SAFE
+        KATIE Is Passing The Baguette to PHIL 
+The current player is PHIL
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 0
+        PHIL Took A BITE From The FRONT
+PHIL...IS SAFE
+        PHIL Is Passing The Baguette to JAKE 
+The current player is JAKE
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 1
+        JAKE Took A BITE From The BACK
+JAKE...IS SAFE
+        JAKE Is Passing The Baguette to ROGER 
+The current player is ROGER
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 1
+        ROGER Took A BITE From The BACK
+ROGER...IS POSIONED
+LET THE GAMES BEGIN!!
+The current player is KATIE
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 0
+        KATIE Took A BITE From The FRONT
+KATIE...IS SAFE
+        KATIE Is Passing The Baguette to PHIL 
+The current player is PHIL
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 1
+        PHIL Took A BITE From The BACK
+PHIL...IS SAFE
+        PHIL Is Passing The Baguette to JAKE 
+The current player is JAKE
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 1
+        JAKE Took A BITE From The BACK
+JAKE...IS SAFE
+        JAKE Is Passing The Baguette to KATIE 
+The current player is KATIE
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 0
+        KATIE Took A BITE From The FRONT
+KATIE...IS SAFE
+        KATIE Is Passing The Baguette to PHIL 
+The current player is PHIL
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 1
+        PHIL Took A BITE From The BACK
+PHIL...IS SAFE
+        PHIL Is Passing The Baguette to JAKE 
+The current player is JAKE
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 1
+        JAKE Took A BITE From The BACK
+JAKE...IS POSIONED
+LET THE GAMES BEGIN!!
+The current player is KATIE
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 0
+        KATIE Took A BITE From The FRONT
+KATIE...IS SAFE
+        KATIE Is Passing The Baguette to PHIL 
+The current player is PHIL
+Please Enter One Of The Following Options:
+        0: Bite off the FRONT
+        1: Bite off the BACK
+Enter Your Choice As A Number: 0
+        PHIL Took A BITE From The FRONT
+PHIL...IS POSIONED
+And The WINNER is...KATIE!
+Luck Was On Your Side Today.

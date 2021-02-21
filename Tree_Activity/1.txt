@@ -1,0 +1,5 @@
+In a galaxy far far away, a caterpillar named Phillip James Caterpillar hatched from his egg. There was no sight of his mother Danial Caterpillar. What should Phillip do?
+
+[0] Stay and wait
+[1] Go on an epic quest to find his mother
+Please Enter A Choice:

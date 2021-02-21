@@ -1,0 +1,119 @@
+StephanieRamirez@Stephanies-Air Recursion_activity % gcc recursion_lab.c int_linked.c doubly_circular.c
+StephanieRamirez@Stephanies-Air Recursion_activity % ./a.out                                           
+What Operation Would You Like To Do
+        1: Count Down
+        2: Greatest Common Divsor
+        3: Sum Till Zero
+        4: Fibonacci Sequence
+        5: Star Triangle
+        6: Largest and Smallest
+        7: List Copy
+Enter A Number:1
+        STARTING COUNT DOWN OPERATION
+Enter Starting Number: 5
+5
+4
+3
+2
+1
+0
+Enter 0 If You Would Like To Exist
+What Operation Would You Like To Do
+        1: Count Down
+        2: Greatest Common Divsor
+        3: Sum Till Zero
+        4: Fibonacci Sequence
+        5: Star Triangle
+        6: Largest and Smallest
+        7: List Copy
+Enter A Number:2
+        STARTING GCD OPERATION
+Please Enter Two Numbers:
+45 5
+The GCD of 45 and 5 is: 5
+Enter 0 If You Would Like To Exist
+What Operation Would You Like To Do
+        1: Count Down
+        2: Greatest Common Divsor
+        3: Sum Till Zero
+        4: Fibonacci Sequence
+        5: Star Triangle
+        6: Largest and Smallest
+        7: List Copy
+Enter A Number:3
+        STARTING SUM TILL ZERO OPERATION
+Please Enter A Number:23
+Please Enter A Number:3
+Please Enter A Number:9
+Please Enter A Number:0
+The Sum is: 35
+Enter 0 If You Would Like To Exist
+What Operation Would You Like To Do
+        1: Count Down
+        2: Greatest Common Divsor
+        3: Sum Till Zero
+        4: Fibonacci Sequence
+        5: Star Triangle
+        6: Largest and Smallest
+        7: List Copy
+Enter A Number:4
+        STARTING FIBONACCI SEQUENCE OPERATION
+Please Enter The Term You Would Like To See: 12
+144
+Enter 0 If You Would Like To Exist
+What Operation Would You Like To Do
+        1: Count Down
+        2: Greatest Common Divsor
+        3: Sum Till Zero
+        4: Fibonacci Sequence
+        5: Star Triangle
+        6: Largest and Smallest
+        7: List Copy
+Enter A Number:5
+        STARTING STAR TRIANGLE OPERATION
+Please Enter a Size:5
+*****
+****
+***
+**
+*
+Enter 0 If You Would Like To Exist
+What Operation Would You Like To Do
+        1: Count Down
+        2: Greatest Common Divsor
+        3: Sum Till Zero
+        4: Fibonacci Sequence
+        5: Star Triangle
+        6: Largest and Smallest
+        7: List Copy
+Enter A Number:6
+        STARTING LARGEST AND SMALLEST OPERATION
+ { 6 } ->  { 5 } ->  { 12 } ->  { 8 } ->  { 7 } ->  { 1 } ->  { 5 } ->  { 3 } -> X
+Max Number: 12
+Min Number: 1
+Enter 0 If You Would Like To Exist
+What Operation Would You Like To Do
+        1: Count Down
+        2: Greatest Common Divsor
+        3: Sum Till Zero
+        4: Fibonacci Sequence
+        5: Star Triangle
+        6: Largest and Smallest
+        7: List Copy
+Enter A Number:7
+        STARTING LIST COPY OPERATION
+ORGINAL: LAST NODE <- { 3 } ->  <- { 6 } ->  <- { 9 } ->  <- { 10 } ->  <- { 12 } ->  <- { 2 } -> REPEAT
+
+COPY: LAST NODE <- { 3 } ->  <- { 6 } ->  <- { 9 } ->  <- { 10 } ->  <- { 12 } ->  <- { 2 } -> REPEAT
+Enter 0 If You Would Like To Exist
+What Operation Would You Like To Do
+        1: Count Down
+        2: Greatest Common Divsor
+        3: Sum Till Zero
+        4: Fibonacci Sequence
+        5: Star Triangle
+        6: Largest and Smallest
+        7: List Copy
+Enter A Number:0
+Enter 0 If You Would Like To Exist
+EXITING...

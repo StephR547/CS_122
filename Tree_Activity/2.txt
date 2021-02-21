@@ -1,0 +1,5 @@
+Determined to find his mother, Phillip sets off on a journey into the unknown grassy world. He comes across a two paths. One leads to a large structure while the other leads to what seemed to be more unknown grassy landscape. Which path should he take?
+
+[0] Continue through the grass
+[1] Enter buidling
+Please Enter A Choice:

@@ -1,0 +1,30 @@
+StephanieRamirez@Stephanies-Air Tree_Lab % ./a.out
+
+In a galaxy far far away, a caterpillar named Phillip James Caterpillar hatched from his egg. There was no sight of his mother Danial Caterpillar. What should 
+Phillip do?
+
+[0] Stay and wait
+[1] Go on an epic quest to find his mother
+Please Enter A Choice:
+1
+
+Determined to find his mother, Phillip sets off on a journey into the unknown grassy world. He comes across two paths. One leads to a large structure while the
+ other leads to what seemed to be more unknown grassy landscape. Which path should he take?
+
+[0] Continue through the grass
+[1] Enter buidling
+Please Enter A Choice:1
+
+Being the brave caterpillar he was, Phillip entered the building. But upon his arrive he sees a giant machine that seemed to have a bag full of unknown items. There was something moving inside the bag. What should Phillip do?
+
+[0]Try to open the bag 
+[1]Think nothing of it and leave
+Please Enter A Choice:
+0
+
+The strong and brave caterpillar Phillip was opened the bag. Inside he found his mother who got sucked up by that machine. Finally Phillip and Danial are reunited.
+THE END
+TO PLAY AGAIN ENTER 3:
+TO EXIT STORY ENTER 4:
+Please Enter A Choice:4
+        EXITING...
